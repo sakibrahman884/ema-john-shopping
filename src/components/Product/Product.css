@@ -1,0 +1,27 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.product-image{
+    margin-right: 30px;
+}
+
+.product-name{
+    color:orangered;
+    font-weight: 500;
+}
+
+.purchase-button{
+    padding: 5px 70px;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.icon-color{
+    color: gold;
+}
